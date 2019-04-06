@@ -1,4 +1,4 @@
-package com.fafik.jokeapp;
+package com.fafik.jokeapp.controllers;
 
 import com.fafik.jokeapp.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
